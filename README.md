@@ -23,7 +23,7 @@ Else return false
 4 -3 -1
 -1
 ```
-###### Here, each line is used to describe a single clause. "-" is used to describe the negation of the literal. Spaces are used to seperate the literals from each clause. Here, the above input information can be visualized as [(~A or B) and (~B or C) and (D or ~C or ~A) and (~A)].
+Here, each line is used to describe a single clause. "-" is used to describe the negation of the literal. Spaces are used to seperate the literals from each clause. Here, the above input information can be visualized as [(~A or B) and (~B or C) and (D or ~C or ~A) and (~A)].
 
 ## Running Procedure
 ```
